@@ -142,9 +142,10 @@ On the **front side** of the board, apply enough solder to bridge the four jumpe
 Attach the connector for the OLED on front side (opposite side of diodes). Be careful to avoid adding a lot of solder, as it is easy for solder to flow into the connector.
 
 ## Install Pro Micro (with sockets)
-**When Installing the Pro Micro or Elite C be sure it has the right orientation! The chips on the Bord have to face downward and the USB Port is on the upper edge of your Board . If you don't pay attention to this you will have much fun desoldering afterwards.**
 
-**Before installing the Pro Micro, no matter which (can also happen on the elite c), check whether they are working by plugging them in and flashing the default keymap.** 
+**Before installing the Pro Micro, no matter which (can also happen on the Elite C), check whether they are working by plugging them in and flashing the default keymap.**
+
+**When Installing the Pro Micro Puchi-C or Elite C, be sure it has the right orientation! The chips on the Bord have to face downward and the USB Port is on the upper edge of your Board.**
 
 The pin header enclosed in the bag of Pro Micro can be used, but i recommend to use the Mill-Max socket headers.
 With the Mill-Max header it's easier to replace the Pro Micro, if it's broken. (Especially the Pro Micros will break at some point)
